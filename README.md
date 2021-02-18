@@ -25,6 +25,7 @@
 - [News](#News)
 - [Market research](#Market-research)
 - [Risk management](#Risk-management)
+- [Charts](#Charts)
 - [Communities](#Communities)
 - [Brokers](#Brokers)
 - [Open-sourced ](#Open-sourced )
@@ -89,6 +90,11 @@
   - **Description:** Ziggma is the first comprehensive portfolio and risk management solution for the private investor. 
 - [ziggma](http://www.risk-o.com/) ↕️
   - **Description:** Automate the process of generating auditable risk measures for portfolio management.
+
+## Charts 
+
+- [tradingview](https://www.tradingview.com/) ⬆️
+  - **Description:** Easy and intuitive for beginners, and powerful enough for advanced chartists — TradingView has all the charting tools you need to share and view trading ideas.
   
 ## Communities 
 
