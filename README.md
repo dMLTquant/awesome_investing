@@ -51,7 +51,8 @@
   - **Description:** Wall Street Journal news on stock markets, finance, banks, hedge funds and private equity, with quotes for stocks, stock indexes and ETFs.
 - [barrons](https://www.barrons.com/) ↗️         
   - **Description:** Barron's is a leading source of financial news, providing in-depth analysis and commentary on stocks, investments and how markets are moving across the world.
-
+- [reuters](https://www.reuters.com/) ↗️         
+  - **Description:** Reuters, the news and media division of Thomson Reuters, is the world's largest international multimedia news provider.
 
 ## Market research
 
