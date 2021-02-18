@@ -20,8 +20,23 @@
 ---
 
 ## Index
+
+- [Rating](#Rating)
 - [Market research](#Market-research)
 - [Risk management](#Risk-management)
+
+---
+
+## Rating 
+
+- ↕️ niche product with bespoke usage that are targeting a particular user 
+- ⬆️ leader of the pack or 1️⃣💯💪🖖
+- ↗️ best of the best but not quite number 1️⃣ nonetheless most power users will be happy with this product/service
+- ➡️ most users will be happy but some power users will fell some features are missing 
+- ↘️ still young, not yet a mature product/service 🐣 good for newbies most likely not used by regular or advanced users
+- ⬇️ not worth your time 
+
+---
 
 ## Market research
 
@@ -38,3 +53,11 @@
 
 - [ziggma](https://ziggma.com/)
   - **Description:** Ziggma is the first comprehensive portfolio and risk management solution for the private investor. 
+  
+## Brokers
+
+- [interactive brokers | ibkr](https://www.interactivebrokers.com/) ↗️
+  - **Special features:** Good integration with almost all other products awailable; API; built-in algorithmic trading; support for any OS; charts provided by TradingView; fast execution speed
+- [trading212](https://www.trading212.com/) ➡️
+  - **Special features:** CFD, GIA, ISA under one account  
+- [freetrade](https://freetrade.io/) ↘️
