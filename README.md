@@ -102,6 +102,14 @@
 - [stocktwits](https://stocktwits.com/) ➡️
   - **Description:** See what actual investors and traders are saying in real time about the stocks, crypto, futures, and forex you care about for free.
   
+## Cryptocurrencies 
+
+- [defiprime](https://defiprime.com/) ↗️
+  - **Description:** Decentralized Finance (DeFi) is the movement that leverages decentralized networks to transform old financial products into trustless and transparent protocols that run without intermediaries.
+- [cosmos network](https://cosmos.network/) ↗️
+  - **Description:** Cosmos is a decentralized network of independent parallel blockchains.
+
+  
 ## Brokers
 
 - [interactive brokers | ibkr](https://www.interactivebrokers.com/) ↗️
