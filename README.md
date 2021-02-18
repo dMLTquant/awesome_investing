@@ -25,6 +25,9 @@
 - [News](#News)
 - [Market research](#Market-research)
 - [Risk management](#Risk-management)
+- [Communities](#Communities)
+- [Brokers](#Brokers)
+- [Open-sourced ](#Open-sourced )
 
 ---
 
