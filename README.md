@@ -3,6 +3,8 @@
   <span>Photo by <a href="https://unsplash.com/@markusspiske?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Markus Spiske</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 </p>
 <p align="center">
+  <a href="https://github.com/dMLTquant/awesome_investing">
+    <img alt="AWESOME" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
   <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/dMLTquant/awesome_investing/total?logo=GitHub&style=flat-square">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dMLTquant/awesome_investing?logo=GitHub&style=flat-square">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/dMLTquant/awesome_investing?logo=GitHub&style=flat-square">
