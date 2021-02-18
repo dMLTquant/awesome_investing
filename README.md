@@ -36,5 +36,5 @@
 
 ## Risk management
 
-- [darqube](https://darqube.io/)
-  - **Description:** Darqube meets the needs of investors and traders in a single cross-asset class analytical platform.
+- [ziggma](https://ziggma.com/)
+  - **Description:** Ziggma is the first comprehensive portfolio and risk management solution for the private investor. 
