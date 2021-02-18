@@ -43,6 +43,11 @@
 
 - [bloomberg](https://www.bloomberg.com/) ⬆️         
   - **Description:** Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world.
+- [wall street journal](https://www.wsj.com/) ↗️         
+  - **Description:** Wall Street Journal news on stock markets, finance, banks, hedge funds and private equity, with quotes for stocks, stock indexes and ETFs.
+- [barrons](https://www.barrons.com/) ↗️         
+  - **Description:** Barron's is a leading source of financial news, providing in-depth analysis and commentary on stocks, investments and how markets are moving across the world.
+
 
 ## Market research
 
@@ -62,6 +67,8 @@
   - **Description:** The modern investor’s toolkit. Find everything you need to know about an equity on a single page.
 - [atom finance](https://atom.finance/) ↗️
   - **Description:** Built by investment professionals, Atom’s mission is to provide unparalleled access to institutional investing resources and tools. We focus on the areas of due diligence that matter.
+- [marketwatch](https://www.marketwatch.com/) ➡️
+  - **Description:** MarketWatch is a website that provides financial information, business news, analysis, and stock market data. Along with The Wall Street Journal and Barron's, it is a subsidiary of Dow Jones & Company, a property of News Corp.
 - [seekingalpha](https://seekingalpha.com/) ➡️
   - **Description:** Seekingalpha wants to empower investors to make the absolute best investing decisions by leveraging our independent and balanced stock research, fundamental analysis tools, crowdsourced debate, reliable news, and actionable market data.
 - [yewmo | edge](https://edge.yewno.com/) ➡️
