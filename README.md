@@ -22,6 +22,7 @@
 ## Index
 
 - [Rating](#Rating)
+- [News](#News)
 - [Market research](#Market-research)
 - [Risk management](#Risk-management)
 
@@ -38,21 +39,51 @@
 
 ---
 
+## News
+
+- [bloomberg](https://www.bloomberg.com/) ⬆️         
+  - **Description:** Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world.
+
 ## Market research
 
-- [benzinga | pro](https://pro.benzinga.com/)         
+- [bloomberg professional services](https://www.bloomberg.com/professional/) ⬆️         
+  - **Description:** Bloomberg Professional Services connect decision makers to a dynamic network of information, people and ideas. At the core of this network is our ability to deliver data, news and analytics through innovative technology, quickly and accurately to individuals and across enterprises.
+- [money net](https://www.money.net/) ⬆️         
+  - **Description:** Money.Net provides an all asset class global coverage, global equity, portfolio tools, institutional holdings data, analyst estimates, excel historical data and fundamentals.
+- [morningstar professional services](https://www.morningstar.com/products) ⬆️         
+  - **Description:** Morningstar wants to help individuals make better investment decisions on their own with objective, independent data and analysis.
+- [koyfin](https://www.koyfin.com/) ↗️         
+  - **Description:** Koyfin is a financial data and analytics platform for researching stocks and understanding market trends
+- [benzinga | pro](https://pro.benzinga.com/) ↗️        
   - **Description:** Benzinga PRO is stock market news & research platform.
-- [stockrover](https://www.stockrover.com/)
+- [stockrover](https://www.stockrover.com/) ↗️
   - **Description:**  Stock Rover is a powerful investment research and analysis tool.
-- [yewmo | edge](https://edge.yewno.com/)
+- [wallmine](https://wallmine.com/) ↗️
+  - **Description:** The modern investor’s toolkit. Find everything you need to know about an equity on a single page.
+- [atom finance](https://atom.finance/) ↗️
+  - **Description:** Built by investment professionals, Atom’s mission is to provide unparalleled access to institutional investing resources and tools. We focus on the areas of due diligence that matter.
+- [seekingalpha](https://seekingalpha.com/) ➡️
+  - **Description:** Seekingalpha wants to empower investors to make the absolute best investing decisions by leveraging our independent and balanced stock research, fundamental analysis tools, crowdsourced debate, reliable news, and actionable market data.
+- [yewmo | edge](https://edge.yewno.com/) ➡️
   - **Description:** Yewmo Edge is an AI driven investment research platform.
-- [darqube](https://darqube.io/)
+- [darqube](https://darqube.io/) ↘️
   - **Description:** Darqube meets the needs of investors and traders in a single cross-asset class analytical platform.
+- [businessquant](https://businessquant.com/) ↘️
+  - **Description:** A comprehensive investment research platform, designed to help you make smart investment decisions.
+- [sentieo](https://sentieo.com/) ↘️
+  - **Description:** Sentieo is a financial and corporate research platform that empowers competitive investors and corporations to rapidly and confidently discover the insights they need to win.
 
 ## Risk management
 
-- [ziggma](https://ziggma.com/)
+- [ziggma](https://ziggma.com/) ↕️
   - **Description:** Ziggma is the first comprehensive portfolio and risk management solution for the private investor. 
+- [ziggma](http://www.risk-o.com/) ↕️
+  - **Description:** Automate the process of generating auditable risk measures for portfolio management.
+  
+## Communities 
+
+- [stocktwits](https://stocktwits.com/) ➡️
+  - **Description:** See what actual investors and traders are saying in real time about the stocks, crypto, futures, and forex you care about for free.
   
 ## Brokers
 
@@ -61,3 +92,11 @@
 - [trading212](https://www.trading212.com/) ➡️
   - **Special features:** CFD, GIA, ISA under one account  
 - [freetrade](https://freetrade.io/) ↘️
+
+## Open-sourced 
+
+- [github.com: agora by HP4k1h5](https://github.com/HP4k1h5/agora/) ↕️
+  - **Description:** view market info and charts and trade stocks in the terminal
+
+
+
