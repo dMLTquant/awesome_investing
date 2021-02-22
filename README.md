@@ -28,7 +28,8 @@
 - [Charts](#Charts)
 - [Communities](#Communities)
 - [Brokers](#Brokers)
-- [Open-sourced ](#Open-sourced )
+- [Open-sourced](#Open-sourced)
+- [Data](#Data)
 
 ---
 
@@ -64,6 +65,8 @@
   - **Description:** Morningstar wants to help individuals make better investment decisions on their own with objective, independent data and analysis.
 - [koyfin](https://www.koyfin.com/) ↗️         
   - **Description:** Koyfin is a financial data and analytics platform for researching stocks and understanding market trends
+- [tiingo](https://www.tiingo.com/) ⬆️
+  - **Description:** tiingo offers multiple tools such as data access point, fundamental analysis, news research, screeners and is the only company in the fintech industry that has their mission statement based on love: *We've built Tiingo from Love because we believe it's the optimal way to do business.* 
 - [benzinga | pro](https://pro.benzinga.com/) ↗️        
   - **Description:** Benzinga PRO is stock market news & research platform.
 - [stockrover](https://www.stockrover.com/) ↗️
@@ -108,7 +111,6 @@
   - **Description:** Decentralized Finance (DeFi) is the movement that leverages decentralized networks to transform old financial products into trustless and transparent protocols that run without intermediaries.
 - [cosmos network](https://cosmos.network/) ↗️
   - **Description:** Cosmos is a decentralized network of independent parallel blockchains.
-
   
 ## Brokers
 
@@ -123,5 +125,7 @@
 - [github.com: agora by HP4k1h5](https://github.com/HP4k1h5/agora/) ↕️
   - **Description:** view market info and charts and trade stocks in the terminal
 
+## Data 
 
-
+- [tiingo](https://www.tiingo.com/) ⬆️
+  - **Description:** tiingo offers multiple tools such as data access point, fundamental analysis, news research, screeners and is the only company in the fintech industry that has their mission statement based on love: *We've built Tiingo from Love because we believe it's the optimal way to do business.* 
