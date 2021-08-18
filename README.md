@@ -140,3 +140,10 @@
 
 - [tiingo](https://www.tiingo.com/) ⬆️
   - **Description:** tiingo offers multiple tools such as data access point, fundamental analysis, news research, screeners and is the only company in the fintech industry that has their mission statement based on love: *We've built Tiingo from Love because we believe it's the optimal way to do business.* 
+
+### Macroeconomics 
+
+- [us federal reserve](https://www.federalreserve.gov/)
+- [european central bank](https://www.ecb.europa.eu/)
+- [bank of england](https://www.bankofengland.co.uk/)
+- [bank of japan](https://www.boj.or.jp/en/index.htm/)
