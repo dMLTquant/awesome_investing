@@ -26,6 +26,7 @@
 - [Market research](#Market-research)
 - [Risk management](#Risk-management)
 - [Charts](#Charts)
+- [Analysis](#Analysis)
 - [Communities](#Communities)
 - [Brokers](#Brokers)
 - [Open-sourced](#Open-sourced)
