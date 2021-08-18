@@ -143,7 +143,7 @@
 
 ### Macroeconomics 
 
-- [us federal reserve](https://www.federalreserve.gov/)
-- [european central bank](https://www.ecb.europa.eu/)
-- [bank of england](https://www.bankofengland.co.uk/)
-- [bank of japan](https://www.boj.or.jp/en/index.htm/)
+- [us federal reserve (FED)](https://www.federalreserve.gov/)
+- [european central bank (ECB)](https://www.ecb.europa.eu/)
+- [bank of england (BoE)](https://www.bankofengland.co.uk/)
+- [bank of japan (BoJ)](https://www.boj.or.jp/en/index.htm/)
