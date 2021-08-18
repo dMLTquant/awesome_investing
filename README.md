@@ -21,7 +21,7 @@
 
 <p align="center">
   <b>QUICK LINKS</b></br>
-  <b><a href="https://www.bloomberg.com/">Bloomberg</a> | <a href="https://www.tradingview.com/">TradingView</a> </b>
+  <b><a href="https://www.bloomberg.com/">Bloomberg</a> | <a href="https://www.tradingview.com/">TradingView</a> | <a href="https://tradingeconomics.com/calendar">TradingEconomics Calendar</a></b>
 </p> 
 
 ---
@@ -70,11 +70,13 @@
   - **Description:** Bloomberg Professional Services connect decision makers to a dynamic network of information, people and ideas. At the core of this network is our ability to deliver data, news and analytics through innovative technology, quickly and accurately to individuals and across enterprises.
 - [money net](https://www.money.net/) ⬆️         
   - **Description:** Money.Net provides an all asset class global coverage, global equity, portfolio tools, institutional holdings data, analyst estimates, excel historical data and fundamentals.
+- [tradingeconomics | stream](https://tradingeconomics.com/stream) ⬆️         
+  - **Description:** Trading Economics provides its users with accurate information for 196 countries including historical data and forecasts for more than 20 million economic indicators, exchange rates, stock market indexes, government bond yields and commodity prices.
 - [morningstar professional services](https://www.morningstar.com/products) ⬆️         
   - **Description:** Morningstar wants to help individuals make better investment decisions on their own with objective, independent data and analysis.
 - [koyfin](https://www.koyfin.com/) ↗️         
   - **Description:** Koyfin is a financial data and analytics platform for researching stocks and understanding market trends
-- [tiingo](https://www.tiingo.com/) ⬆️
+- [tiingo](https://www.tiingo.com/) ↗️
   - **Description:** tiingo offers multiple tools such as data access point, fundamental analysis, news research, screeners and is the only company in the fintech industry that has their mission statement based on love: *We've built Tiingo from Love because we believe it's the optimal way to do business.* 
 - [benzinga | pro](https://pro.benzinga.com/) ↗️        
   - **Description:** Benzinga PRO is stock market news & research platform.
@@ -114,6 +116,10 @@
 
 - [autochartist](https://www.autochartist.com/) ↗️
   - **Description:** AutoChartist offers a wide range of financial market content such as Technical Analysis, Statistical Analysis, Macro-Economic Analysis, and Fundamental Analysis, to cater for all types of traders and investors.
+
+## Calendars
+
+- [tradingeconomics | calendar](https://tradingeconomics.com/calendar)
   
 ## Communities 
 
@@ -148,7 +154,9 @@
 
 - [cme group](https://www.cmegroup.com/) ⬆️
   - **Description:** CME Group markets itself as the World's leading and most diverse derivates marketplace. They provide access to six major asset classes to help you find opportunities, diversify and fine-tune your portfolio using standard, E-mini or Micro-sized contracts, and capture efficiencies with leading-edge technology as a core part of your strategy.
-- [tiingo](https://www.tiingo.com/) ⬆️
+- [tradingeconomics](https://tradingeconomics.com/) ⬆️
+  - **Description:** Trading Economics provides its users with accurate information for 196 countries including historical data and forecasts for more than 20 million economic indicators, exchange rates, stock market indexes, government bond yields and commodity prices  
+- [tiingo](https://www.tiingo.com/) ↗️
   - **Description:** tiingo offers multiple tools such as data access point, fundamental analysis, news research, screeners and is the only company in the fintech industry that has their mission statement based on love: *We've built Tiingo from Love because we believe it's the optimal way to do business.* 
 
 ### Macroeconomics 
