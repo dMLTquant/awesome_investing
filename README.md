@@ -108,6 +108,7 @@
 
 - [tradingview](https://www.tradingview.com/) ⬆️
   - **Description:** Easy and intuitive for beginners, and powerful enough for advanced chartists — TradingView has all the charting tools you need to share and view trading ideas.
+  - **Features:** [tradingview sparks](https://www.tradingview.com/sparks/) ➡️
 
 ## Analysis
 
