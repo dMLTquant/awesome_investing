@@ -41,6 +41,7 @@
 - ➡️ most users will be happy but some power users will fell some features are missing 
 - ↘️ still young, not yet a mature product/service 🐣 good for newbies most likely not used by regular or advanced users
 - ⬇️ not worth your time 
+- 🤷 recommend by other but not tested yet
 
 ---
 
@@ -99,6 +100,11 @@
 
 - [tradingview](https://www.tradingview.com/) ⬆️
   - **Description:** Easy and intuitive for beginners, and powerful enough for advanced chartists — TradingView has all the charting tools you need to share and view trading ideas.
+
+## Analysis
+
+- [AutoChartist](https://www.autochartist.com/) ↗️
+  - **Description:** AutoChartist offers a wide range of financial market content such as Technical Analysis, Statistical Analysis, Macro-Economic Analysis, and Fundamental Analysis, to cater for all types of traders and investors.
   
 ## Communities 
 
@@ -116,6 +122,8 @@
 
 - [interactive brokers | ibkr](https://www.interactivebrokers.com/) ↗️
   - **Special features:** Good integration with almost all other products awailable; API; built-in algorithmic trading; support for any OS; charts provided by TradingView; fast execution speed
+- [OANDA](https://www.oanda.com/) ↗️
+  - **Special features:** Straightforward and easy to use API. AutoChartist integration. 
 - [trading212](https://www.trading212.com/) ➡️
   - **Special features:** CFD, GIA, ISA under one account  
 - [freetrade](https://freetrade.io/) ↘️
@@ -124,7 +132,7 @@
 
 - [github.com: agora by HP4k1h5](https://github.com/HP4k1h5/agora/) ↕️
   - **Description:** view market info and charts and trade stocks in the terminal
-- [github.com: ghostfolio](https://github.com/ghostfolio/ghostfolio/)
+- [github.com: ghostfolio](https://github.com/ghostfolio/ghostfolio/) 🤷
   - **Description:** Wealth management software to keep track of financial assets like stocks, ETFs or cryptocurrencies and make solid, data-driven investment decisions
 
 ## Data 
