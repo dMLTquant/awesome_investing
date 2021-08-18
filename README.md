@@ -124,6 +124,8 @@
 
 - [github.com: agora by HP4k1h5](https://github.com/HP4k1h5/agora/) ↕️
   - **Description:** view market info and charts and trade stocks in the terminal
+- [github.com: ghostfolio](https://github.com/ghostfolio/ghostfolio/)
+  - **Description:** Wealth management software to keep track of financial assets like stocks, ETFs or cryptocurrencies and make solid, data-driven investment decisions
 
 ## Data 
 
