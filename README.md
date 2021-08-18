@@ -19,6 +19,13 @@
 
 ---
 
+<p align="center">
+  <b>QUICK LINKS</b></br>
+  <b><a href="https://www.bloomberg.com/">Bloomberg</a> | <a href="https://www.tradingview.com/">TradingView</a> </b>
+</p> 
+
+---
+
 ## Index
 
 - [Rating](#Rating)
