@@ -138,6 +138,8 @@
 
 ## Data 
 
+- [cme group](https://www.cmegroup.com/) ⬆️
+  - **Description:** CME Group markets itself as the World's leading and most diverse derivates marketplace. They provide access to six major asset classes to help you find opportunities, diversify and fine-tune your portfolio using standard, E-mini or Micro-sized contracts, and capture efficiencies with leading-edge technology as a core part of your strategy.
 - [tiingo](https://www.tiingo.com/) ⬆️
   - **Description:** tiingo offers multiple tools such as data access point, fundamental analysis, news research, screeners and is the only company in the fintech industry that has their mission statement based on love: *We've built Tiingo from Love because we believe it's the optimal way to do business.* 
 
