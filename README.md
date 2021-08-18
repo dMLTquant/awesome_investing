@@ -103,7 +103,7 @@
 
 ## Analysis
 
-- [AutoChartist](https://www.autochartist.com/) ↗️
+- [autochartist](https://www.autochartist.com/) ↗️
   - **Description:** AutoChartist offers a wide range of financial market content such as Technical Analysis, Statistical Analysis, Macro-Economic Analysis, and Fundamental Analysis, to cater for all types of traders and investors.
   
 ## Communities 
@@ -122,7 +122,7 @@
 
 - [interactive brokers | ibkr](https://www.interactivebrokers.com/) ↗️
   - **Special features:** Good integration with almost all other products awailable; API; built-in algorithmic trading; support for any OS; charts provided by TradingView; fast execution speed
-- [OANDA](https://www.oanda.com/) ↗️
+- [oanda](https://www.oanda.com/) ↗️
   - **Special features:** Straightforward and easy to use API. AutoChartist integration. 
 - [trading212](https://www.trading212.com/) ➡️
   - **Special features:** CFD, GIA, ISA under one account  
