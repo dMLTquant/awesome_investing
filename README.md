@@ -88,6 +88,8 @@
   - **Description:** Built by investment professionals, Atom’s mission is to provide unparalleled access to institutional investing resources and tools. We focus on the areas of due diligence that matter.
 - [marketwatch](https://www.marketwatch.com/) ➡️
   - **Description:** MarketWatch is a website that provides financial information, business news, analysis, and stock market data. Along with The Wall Street Journal and Barron's, it is a subsidiary of Dow Jones & Company, a property of News Corp.
+- [tipranks](https://www.tipranks.com/) ➡️
+  - **Description:** TipRanks Helps Investors Make Better,Data-Driven Investment Decisions. Their promise is to level the playing field for retail investors by making institutional-grade research tools and data available to everyone.
 - [seekingalpha](https://seekingalpha.com/) ➡️
   - **Description:** Seekingalpha wants to empower investors to make the absolute best investing decisions by leveraging our independent and balanced stock research, fundamental analysis tools, crowdsourced debate, reliable news, and actionable market data.
 - [yewmo | edge](https://edge.yewno.com/) ➡️
