@@ -114,10 +114,12 @@
   - **Description:** Easy and intuitive for beginners, and powerful enough for advanced chartists — TradingView has all the charting tools you need to share and view trading ideas.
   - **Features:** [tradingview sparks](https://www.tradingview.com/sparks/) ➡️
 
-## Analysis
+## Quant Analysis
 
 - [autochartist](https://www.autochartist.com/) ↗️
   - **Description:** AutoChartist offers a wide range of financial market content such as Technical Analysis, Statistical Analysis, Macro-Economic Analysis, and Fundamental Analysis, to cater for all types of traders and investors.
+- [quiver quant](https://www.quiverquant.com)
+  - **Description:** QuiverQuant scrapes alternative stock data from across the internet and aggregates it in an easy-to-use web dashboard. It allows retail investors to tap into the power of big data, and have access to actionable, easy to interpret data that hasn’t already been dissected by Wall Street.
 
 ## Calendars
 
