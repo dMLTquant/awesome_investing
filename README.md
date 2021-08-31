@@ -140,6 +140,8 @@
 
 - [tradingeconomics | calendar](https://tradingeconomics.com/calendar) ⬆️
 
+---
+
 ## Risk management
 
 - [ziggma](https://ziggma.com/) ↕️
