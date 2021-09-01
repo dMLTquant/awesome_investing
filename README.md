@@ -145,6 +145,7 @@
 ### Calendars
 
 - [tradingeconomics | calendar](https://tradingeconomics.com/calendar) ⬆️
+- [forex factory | calendar](https://www.forexfactory.com/calendar) ↗️
 
 ---
 
