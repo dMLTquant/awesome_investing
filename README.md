@@ -118,6 +118,10 @@
   - **Description:** The modern investor’s toolkit. Find everything you need to know about an equity on a single page.
 - [atom finance](https://atom.finance/) ↗️
   - **Description:** Built by investment professionals, Atom’s mission is to provide unparalleled access to institutional investing resources and tools. We focus on the areas of due diligence that matter.
+- [yahoo finance](https://finance.yahoo.com/) ➡️
+  - **Description:** Yahoo Finance provides free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction, mortgage rates and other data that can help you manage your financial life.
+- [google finance](https://www.google.com/finance/) ➡️
+  - **Description:** Google Finance provides real-time market quotes, international exchanges, up-to-date financial news, and analytics to help you make more informed trading and investment decisions.
 - [tipranks](https://www.tipranks.com/) ➡️
   - **Description:** TipRanks Helps Investors Make Better,Data-Driven Investment Decisions. Their promise is to level the playing field for retail investors by making institutional-grade research tools and data available to everyone.
 - [yewmo | edge](https://edge.yewno.com/) ➡️
