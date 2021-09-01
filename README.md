@@ -106,6 +106,8 @@
   - **Description:** Money.Net provides an all asset class global coverage, global equity, portfolio tools, institutional holdings data, analyst estimates, excel historical data and fundamentals.
 - [morningstar professional services](https://www.morningstar.com/products) ⬆️         
   - **Description:** Morningstar wants to help individuals make better investment decisions on their own with objective, independent data and analysis.
+- [finviz](https://finviz.com)
+  - **Description:**  Finviz Elite is a dynamic platform that allows traders not only to scan for appealing chart patterns, but also secure real-time quotes, run backtests, discover correlations, find news, track insider transactions, and more.
 - [koyfin](https://www.koyfin.com/) ↗️         
   - **Description:** Koyfin is a financial data and analytics platform for researching stocks and understanding market trends
 - [tiingo](https://www.tiingo.com/) ↗️
