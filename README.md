@@ -21,7 +21,8 @@
 
 <p align="center">
   <b>QUICK LINKS</b></br>
-  <b><a href="https://www.bloomberg.com/">Bloomberg</a> | <a href="https://www.tradingview.com/">TradingView</a> | <a href="https://tradingeconomics.com/calendar">TradingEconomics Calendar</a></b>
+  <b><a href="https://www.bloomberg.com/">Bloomberg</a> | <a href="https://www.tradingview.com/">TradingView</a> | <a href="https://tradingeconomics.com/calendar">TradingEconomics Calendar</a></b></br>
+  <b><a href="https://marketmilk.babypips.com">Baby Pips Market Milk</a>
 </p> 
 
 ---
@@ -41,6 +42,7 @@
 - [Risk management](#Risk-management)
 - [Other resources](#Other-resources)
   - [Brokers](#Brokers)
+  - [Forex](#Forex)
   - [Cryptocurrencies](#Cryptocurrencies)
   - [Open source](#Open-source)
   - [Trading communities](#Trading-communities)
@@ -81,7 +83,7 @@
 
 - [tradingview](https://www.tradingview.com/) ⬆️
   - **Description:** Easy and intuitive for beginners, and powerful enough for advanced chartists — TradingView has all the charting tools you need to share and view trading ideas.
-  - **Features:** [tradingview sparks](https://www.tradingview.com/sparks/) ➡️
+  - **Special features:** [tradingview sparks](https://www.tradingview.com/sparks/) ➡️
 
 ### News research
 
@@ -183,6 +185,12 @@
   - **Special features:** CFD, GIA, ISA under one account  
 - [freetrade](https://freetrade.io/) ↘️
 
+### Forex
+
+- [baby pips](https://www.babypips.com/) ⬆️
+  - **Description:** BabyPips.com helps individual traders learn how to trade the forex market.They introduce people to the world of currency trading, and provide educational content to help them learn how to become profitable traders. They are also a community of traders that support each other on their daily trading journey.
+  - **Special features:** [MarketMilk](https://marketmilk.babypips.com)
+ 
 ### Cryptocurrencies 
 
 - [defiprime](https://defiprime.com/) ↗️
