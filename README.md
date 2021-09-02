@@ -37,11 +37,11 @@
   - [Market research](#Market-research)
 - [Data access points](#Data-access-points)
   - [Calendars](#Calendars)
+  - [Macroeconomics](#Macroeconomics)
 - [Risk management](#Risk-management)
 - [Other resources](#Other-resources)
   - [Brokers](#Brokers)
   - [Cryptocurrencies](#Cryptocurrencies)
-  - [Macroeconomics](#Macroeconomics)
   - [Open source](#Open-source)
   - [Trading communities](#Trading-communities)
 
@@ -147,6 +147,13 @@
 - [tradingeconomics | calendar](https://tradingeconomics.com/calendar) ⬆️
 - [forex factory | calendar](https://www.forexfactory.com/calendar) ↗️
 
+### Macroeconomics
+
+- [us federal reserve (FED)](https://www.federalreserve.gov/)
+- [european central bank (ECB)](https://www.ecb.europa.eu/)
+- [bank of england (BoE)](https://www.bankofengland.co.uk/)
+- [bank of japan (BoJ)](https://www.boj.or.jp/en/index.htm/)
+
 ---
 
 ## Risk management
@@ -176,13 +183,6 @@
   - **Description:** Decentralized Finance (DeFi) is the movement that leverages decentralized networks to transform old financial products into trustless and transparent protocols that run without intermediaries.
 - [cosmos network](https://cosmos.network/) ↗️
   - **Description:** Cosmos is a decentralized network of independent parallel blockchains.
-
-### Macroeconomics
-
-- [us federal reserve (FED)](https://www.federalreserve.gov/)
-- [european central bank (ECB)](https://www.ecb.europa.eu/)
-- [bank of england (BoE)](https://www.bankofengland.co.uk/)
-- [bank of japan (BoJ)](https://www.boj.or.jp/en/index.htm/)
 
 ### Open source
 
