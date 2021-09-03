@@ -25,7 +25,7 @@
 
 •• **news** • [Bloomberg](https://www.bloomberg.com/) •• **calendar** [TradingEconomics](https://tradingeconomics.com/calendar) •• **charts** • [TradingView](https://www.tradingview.com/) •• **forex** • [MarketMilk](https://marketmilk.babypips.com) •• **education** • [Investopedia](https://www.investopedia.com/) ••
 
-•• **research** • [DocoH](https://docoh.com/) • [KoyFin](https://app.koyfin.com/) ••
+•• **research** • [DocoH](https://docoh.com/) ••
 
 ---
 
@@ -113,8 +113,6 @@
   - **Description:** Morningstar wants to help individuals make better investment decisions on their own with objective, independent data and analysis.
 - [finviz](https://finviz.com) ↗️
   - **Description:**  Finviz Elite is a dynamic platform that allows traders not only to scan for appealing chart patterns, but also secure real-time quotes, run backtests, discover correlations, find news, track insider transactions, and more.
-- [koyfin](https://www.koyfin.com/) ↗️         
-  - **Description:** Koyfin is a financial data and analytics platform for researching stocks and understanding market trends
 - [tiingo](https://www.tiingo.com/) ↗️
   - **Description:** tiingo offers multiple tools such as data access point, fundamental analysis, news research, screeners and is the only company in the fintech industry that has their mission statement based on love: *We've built Tiingo from Love because we believe it's the optimal way to do business.* 
 - [stockrover](https://www.stockrover.com/) ↗️
@@ -127,6 +125,8 @@
   - **Description:** Yahoo Finance provides free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction, mortgage rates and other data that can help you manage your financial life.
 - [google finance](https://www.google.com/finance/) ➡️
   - **Description:** Google Finance provides real-time market quotes, international exchanges, up-to-date financial news, and analytics to help you make more informed trading and investment decisions.
+- [koyfin](https://www.koyfin.com/) ➡️         
+  - **Description:** Koyfin is a financial data and analytics platform for researching stocks and understanding market trends
 - [tipranks](https://www.tipranks.com/) ➡️
   - **Description:** TipRanks Helps Investors Make Better,Data-Driven Investment Decisions. Their promise is to level the playing field for retail investors by making institutional-grade research tools and data available to everyone.
 - [yewmo | edge](https://edge.yewno.com/) ➡️
