@@ -21,9 +21,9 @@
 
 <p align="center">
   <b>QUICK LINKS</b></br>
-  <b>|| <a href="https://www.bloomberg.com/">Bloomberg</a> | <a href="https://www.tradingview.com/">TradingView</a> | <a href="https://tradingeconomics.com/calendar">TradingEconomics Calendar</a></b> ||</br>
-  <b>|| <a href="https://marketmilk.babypips.com">Baby Pips Market Milk</a></b> ||</br>
-</p> 
+</p>
+
+•• **news** • [Bloomberg](https://www.bloomberg.com/) •• **calendar** [TradingEconomics](https://tradingeconomics.com/calendar) •• **charts** • [TradingView](https://www.tradingview.com/) •• **forex** • [MarketMilk](https://marketmilk.babypips.com) •• **research** • [DocoH](https://docoh.com/) • [KoyFin](https://app.koyfin.com/) ••
 
 ---
 
