@@ -23,7 +23,9 @@
   <b>QUICK LINKS</b></br>
 </p>
 
-•• **news** • [Bloomberg](https://www.bloomberg.com/) •• **calendar** [TradingEconomics](https://tradingeconomics.com/calendar) •• **charts** • [TradingView](https://www.tradingview.com/) •• **forex** • [MarketMilk](https://marketmilk.babypips.com) •• **research** • [DocoH](https://docoh.com/) • [KoyFin](https://app.koyfin.com/) ••
+•• **news** • [Bloomberg](https://www.bloomberg.com/) •• **calendar** [TradingEconomics](https://tradingeconomics.com/calendar) •• **charts** • [TradingView](https://www.tradingview.com/) •• **forex** • [MarketMilk](https://marketmilk.babypips.com) •• **education** • [Investopedia](https://www.investopedia.com/) ••
+
+•• **research** • [DocoH](https://docoh.com/) • [KoyFin](https://app.koyfin.com/) ••
 
 ---
 
@@ -41,6 +43,7 @@
   - [Macroeconomics](#Macroeconomics)
 - [Risk management](#Risk-management)
 - [Other resources](#Other-resources)
+  - [Education](#Education)
   - [Brokers](#Brokers)
   - [Forex](#Forex)
   - [Cryptocurrencies](#Cryptocurrencies)
@@ -174,6 +177,11 @@
 ---
 
 ## Other resources
+
+### Education
+
+- [investopedia](https://www.investopedia.com/) ⬆️
+  - **Description:** Their mission is to simplify complex financial information and decisions so that their readers have the confidence to manage every aspect of their financial life. 
 
 ### Brokers
 
