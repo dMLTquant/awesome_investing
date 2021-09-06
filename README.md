@@ -142,9 +142,9 @@
 
 - [nasdaq](https://www.nasdaq.com/) ⬆️ 
   - **Description:** Nasdaq INC is a leading provider of trading, clearing, exchange technology, listing, information and public company services across six continents. As the creator of the world's first electronic stock market, its technology powers more than 70 marketplaces in 50 countries, and 1 in 10 of the world's securities transactions.
-- [nyse](https://www.nasdaq.com/) ⬆️ 
+- [nyse](https://www.nyse.com/) ⬆️ 
   - **Description:** The New York Stock Exchange is the world’s largest and most trusted equities exchange, the leading ETF exchange and responsible for some of the most deterministic trading technology.
-- [ice](https://www.nasdaq.com/) ⬆️ 
+- [ice](https://www.ice.com/) ⬆️ 
   - **Description:** Intercontinental Exchange (ICE), the company behind the New York Stock Exchange, was founded in 2000 to digitize the energy markets and provide greater price transparency. By combining world class technology with leading data services and operating expertise, they add transparency and enable customer efficiency gains that advance both networks and solutions for customers.
 - [cme group](https://www.cmegroup.com/) ⬆️
   - **Description:** CME Group markets itself as the World's leading and most diverse derivates marketplace. They provide access to six major asset classes to help you find opportunities, diversify and fine-tune your portfolio using standard, E-mini or Micro-sized contracts, and capture efficiencies with leading-edge technology as a core part of your strategy.
