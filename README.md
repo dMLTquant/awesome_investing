@@ -14,7 +14,8 @@
 
 <p align="center">
   <b>AWESOME INVESTING</b></br>
-  <b>A curated list of investing services and tools, financial data, quantitative research and algorithmic trading</b>
+  <b>A curated list of investing services and tools, financial data, quantitative research and algorithmic trading</b></br>
+  <b>NOTE: ALTHOUGH THE RATING SYSTEM MADE A LOT OF SENSE, IT ALSO TAKE A LOT OF TIME TO MAINTAIN. AS NEW FEATURES ARE ADDED TO THE APPS, TOOLS, SERVICES ON THIS LIST IT, THE LIST SHOULD BE UPDATED PERIODICALLY AND THAT TAKE A LOT OF TIME TO MAINTAIN. THEREFORE THIS PROJECT HAS NOW BEEN ARCHIVED AND RELEVANT INFORMATION HAS BEEN MIGRATED TO A NEW VERSION THAT CAN BEEN FOUND HERE <a href="https://github.com/dMLTquant/dMLTresearch">github.com/dMLTquant/dMLTresearch</a>.
 </p> 
 
 ---
